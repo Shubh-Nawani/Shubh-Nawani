@@ -1,6 +1,6 @@
 <h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 <p align="center">
-  Hi, I'm Shubh Nawani, a full-stack developer passionate about creating applications that address real-world challenges. Currently, I specialize in web development and am also working with Ruby on Rails (RoR). I have completed projects in both areas and am eager to embrace new challenges. I am dedicated to leveraging technology to make a positive impact and continually seek opportunities for learning and personal growth.
+  Currently pursuing my B.Tech in Computer Science at Lovely Professional University in collaboration with Kalvium, where I’m immersed in a dynamic, project-based learning environment. Through this unique curriculum, I'm building my foundation in software development while honing critical problem-solving and innovation skills. Passionate about creating impactful tech, I'm always ready for new learning experiences and real-world challenges.
 </p>
 
 <h2 align="center">ꜱᴏᴄɪᴀʟꜱ</h2>
@@ -27,6 +27,5 @@
   <img alt="spring boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
