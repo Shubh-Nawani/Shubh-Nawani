@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-nawani&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-nawani" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh-nawani" alt="shubh-nawani" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="shubh-nawani" /></p>
 
 - 🔭 I’m currently working on [Sephore_Clone](https://github.com/Shubh-Nawani/Sephora_Clone)
 
 - 👨‍💻 All of my projects are available at [https://www.shubhnawani.me](https://www.shubhnawani.me)
 
 - 📫 How to reach me **shubhnawani@outlook.com**
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh-nawani" alt="shubh-nawani" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh-nawani&show_icons=true&locale=en" alt="shubh-nawani" /></p>
 
-<p>&nbsp;<img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="shubh-nawani" /></p>
+
