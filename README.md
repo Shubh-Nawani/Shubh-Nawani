@@ -1,3 +1,4 @@
+```kotlin
 shubh := Human{
     Name:    "Shubh Nawani",
     Title:   "Software Engineering Student",
@@ -7,3 +8,4 @@ shubh := Human{
     Website: "http://shubhnawani.me",
     SideProject: "https://astrapix.vercel.app",
 }
+```
