@@ -5,7 +5,6 @@ shubh := Human{
     Job:     "Kalvium Labs",
     Hobbies: []string{"finance", "frisbee", "competitive-programming"},
     Plan:    "To design & develop scalable B2B enterprise-ready SaaS applications.",
-    Website: "http://shubhnawani.site",
     SideProject: "https://astrapix.vercel.app",
 }
 ```
