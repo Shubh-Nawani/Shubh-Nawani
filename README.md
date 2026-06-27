@@ -2,7 +2,7 @@
 shubh := Human{
     Name:    "Shubh Nawani",
     Title:   "Software Engineering Student",
-    Job:     "Kalvium Labs",
+    Job:     "Eternz",
     Hobbies: []string{"finance", "frisbee", "competitive-programming"},
     Plan:    "To design & develop scalable B2B enterprise-ready SaaS applications.",
     SideProject: "https://astrapix.vercel.app",
