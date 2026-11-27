@@ -8,4 +8,3 @@ shubh := Human{
     SideProject: "https://astrapix.vercel.app",
 }
 ```
-https://docs.google.com/document/d/1wlNVcuPkj81jJiWmE0ls2FlMoGqKmRHDGDbpXtXHNqE/edit?usp=sharing
